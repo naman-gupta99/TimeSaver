@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Time Saver</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="subject_name">Subject Name</string>
+    <string name="location">Location</string>
+    <string name="end_time">End Time</string>
+    <string name="start_time">Start Time</string>
+    <string name="day_of_week">Day of Week</string>
+    <string name="action_settings">lol</string>
+    <string name="action_favorite">los</string>
+    <string-array name="my_header_title">
+        <item></item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+</resources>

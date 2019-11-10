@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752173161035",
+    "firebase_url": "https://timesaver-2f8e7.firebaseio.com",
+    "project_id": "timesaver-2f8e7",
+    "storage_bucket": "timesaver-2f8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752173161035:android:0d1ccacfb19453f19f8bce",
+        "android_client_info": {
+          "package_name": "com.example.timesaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752173161035-dmubi07n4rp67p3vikofk7kjpga0ubq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timesaver",
+            "certificate_hash": "1d9c5af166384e9fea2c65402086e80428b7b2fc"
+          }
+        },
+        {
+          "client_id": "752173161035-gfmijq2d458kvmtohre3e1rqd19uh4e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7zmF7i_y3nwjXs6U-HJ56rKtDP66KdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752173161035-gfmijq2d458kvmtohre3e1rqd19uh4e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
